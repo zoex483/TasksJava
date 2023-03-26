@@ -1,5 +1,7 @@
 package Interview;
 
+//cоздание бесконечного цикла на пустом месте
+
 public class EndlessCycle {
     public static void main(String[] args) {
         int start = Integer.MAX_VALUE - 1;
